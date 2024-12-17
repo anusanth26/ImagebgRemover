@@ -9,3 +9,8 @@ input_image = Image.open(input_path)
 output_image = remove(input_image)
 
 output_image.save(output_path)
+
+
+# comment 1
+# comment 2
+# comment 3
